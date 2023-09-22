@@ -1,0 +1,92 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/arabica/arabica_01.jpg",
+            "nama": "Enak Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=enak+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/arabica/arabica_02.jpg",
+            "nama": "Arabica Mantap",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=arabica+mantap&tbm=shop"
+        },
+        {
+            "foto": "images/produk/arabica/arabica_03.jpg",
+            "nama": "Top Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=top+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/arabica/arabica_04.jpg",
+            "nama": "Original Arabica",
+            "size": "320 Gram",
+            "harga": "120.000",
+            "link": "https://www.google.com/search?q=original+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/robusta/robusta_01.jpg",
+            "nama": "Kopi Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/robusta/robusta_02.jpg",
+            "nama": "Robusta Enak",
+            "size": "350 Gram",
+            "harga": "190.000",
+            "link": "https://www.google.com/search?q=robusta+enak&tbm=shop"
+        },
+        {
+            "foto": "images/produk/robusta/robusta_03.jpg",
+            "nama": "Original Robusta",
+            "size": "250 Gram",
+            "harga": "120.000",
+            "link": "https://www.google.com/search?q=original+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/robusta/robusta_04.jpg",
+            "nama": "Robusta Mantep",
+            "size": "170 Gram",
+            "harga": "230.000",
+            "link": "https://www.google.com/search?q=robusta+mantep&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/nonkopi/nonkopi_01.jpg",
+            "nama": "Es Krim Mangkok",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+krim+mangkok&tbm=shop"
+        },
+        {
+            "foto": "images/produk/nonkopi/nonkopi_02.jpg",
+            "nama": "Kiko Enak Tau",
+            "size": "150 Gram",
+            "harga": "160.000",
+            "link": "https://www.google.com/search?q=kiko+enak+tau&tbm=shop"
+        },
+        {
+            "foto": "images/produk/nonkopi/nonkopi_03.jpg",
+            "nama": "Ice Cream Corn",
+            "size": "200 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=ice+cream+corn&tbm=shop"
+        },
+        {
+            "foto": "images/produk/nonkopi/nonkopi_04.jpg",
+            "nama": "Es Potong",
+            "size": "180 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=es+potong&tbm=shop"
+        }
+    ]
+}
